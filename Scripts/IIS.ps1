@@ -1,1 +1,0 @@
-﻿Install-WindowsFeature -name Web-Server -IncludeManagementToolspowershell-install-iis
