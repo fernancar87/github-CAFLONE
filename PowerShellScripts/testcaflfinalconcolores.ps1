@@ -72,4 +72,4 @@ If ($Privileged_Objects,$PathTierPrivileged -icontains $Privileged_Objects ) {
 
 Write-Host -ForegroundColor Green "All OUs were created successfully" }
  Else {
-Write-Host -Foregr
+Write-Host -ForegroundColor Red "Please check Domain Name"}
